@@ -1,0 +1,1 @@
+# IJGIS-Geo-Scaling-Law
